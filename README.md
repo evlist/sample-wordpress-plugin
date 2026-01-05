@@ -1,5 +1,5 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=graft/2026-01-05T15-53-45&repo=evlist/sample-wordpress-plugin)
-Codespace created with [evlist/codespaces-grafting <img src=".devcontainer/assets/icon.svg" width="96" height="96" style="float:right;max-width:96px;height:auto" alt="cs-grafting" /> ](https://github.com/evlist/codespaces-grafting)
+Codespace created with [evlist/codespaces-grafting <img src=".devcontainer/assets/icon.svg" width="64" height="64" style="float:right;max-width:96px;height:auto" alt="cs-grafting" /> ](https://github.com/evlist/codespaces-grafting)
 
 # Hello World WordPress Plugin
 
